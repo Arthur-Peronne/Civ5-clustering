@@ -1,0 +1,44 @@
+leader_name,cluster,sentiment_score,archetype_1,archetype_2,archetype_3,n_mentions,total_weight,confidence_score
+AhmadalMansur,4,0.31243358129649307,peaceful trader,wonder spammer,diplomatic friend,7.0,9.41,0.2919830178577215
+Alexander,1,-0.729911119172864,city state hog,aggressive warmonger,diplomatic bully,43.0,55.13,1.0
+Ashurbanipal,2,-0.11051930758988017,aggressive warmonger,early game threat,,6.0,7.51,0.24384916553783367
+Askia,2,-0.7859531772575251,opportunistic backstabber,religious spammer,boom or bust,8.0,8.97,0.30434438724661245
+Attila,2,-0.6216931216931217,early game aggressor,relentless warmonger,late game joke,17.0,18.9,0.5495666871824494
+Augustus,1,-0.3386960203217612,opportunistic backstabber,military focused,late game competitor,11.0,11.81,0.3920375077735473
+Bismark,1,-0.20366795366795368,reasonable warmonger,chronic backstabber,runaway leader,9.0,10.36,0.34140588278453654
+Boudicca,2,-0.1219931271477663,religious missionary spammer,unpredictable two-faced,early game aggressor,9.0,11.64,0.35819118144270534
+Casimir,0,-0.119072708113804,aggressive warmonger,city spammer,strong competitor,7.0,9.49,0.2930699311754531
+Catherine,1,0.04728546409807359,city spammer,strong competitor,diplomatic manipulator,15.0,17.13,0.5078819035900927
+Darius,4,-0.09689213893967089,scheming threat,under radar warmonger,well rounded,4.0,5.470000000000001,0.16454168051399928
+Dido,2,-0.5901639344262295,untrustworthy backstabber,aggressive expansionist,early warmonger,8.0,9.760000000000002,0.31578409642342936
+Elizabeth,0,-0.7465986394557823,annoying backstabber,wonder hog,naval warmonger,16.0,17.64,0.5252420926254888
+EnricoDandolo,4,-0.6483084185680564,city state buyer,annoying merchant,friendly trader,9.0,12.71,0.37096615763061974
+GajahMada,2,-1.0,deceptive warmonger,missionary spammer,disloyal friend,2.0,3.18,0.06665023324802434
+Gandhi,3,-0.43475366178428765,nuclear warmonger,peaceful pushover,fickle denouncer,13.0,15.02,0.4591701079203074
+GenghisKhan,2,-0.13024420788979335,city state killer,loyal warmonger,self-destructive aggressor,17.0,15.97,0.5181350288819507
+Gustavus,0,-0.11584327086882454,diplomatic friend,peaceful builder,forward settler,10.0,11.74,0.3759899029431714
+Harald,2,-0.4236311239193084,aggressive warmonger,naval attacker,early game threat,2.0,3.47,0.07168166411119001
+HarunAlRashid,4,0.13109425785482126,science powerhouse,city spammer,diplomatic schemer,8.0,9.23,0.30820648074999385
+Hiawatha,0,-0.5459435230838189,city spammer,peaceful expander,annoying neighbor,18.0,22.310000000000002,0.5924035008403363
+Isabella,2,-0.5066312997347481,religious zealot,backstabbing ally,annoying pest,7.0,7.54,0.26387066673875603
+Kamehameha,0,-0.552258064516129,annoying forward settler,weak performer,diplomatic manipulator,6.0,7.75,0.24754424343489967
+Maria,0,-0.8465723612622416,passive aggressive,city state buyer,diplomatic annoyance,7.0,9.190000000000001,0.28895037645055743
+MariaI,0,0.0,distant isolated,,,1.0,1.36,0.0
+Montezuma,2,-0.08395061728395065,aggressive warmonger,honest aggressor,consistent threat,15.0,16.2,0.49791345724941444
+Napoleon,1,-0.4035874439461884,aggressive warmonger,opportunistic attacker,culture competitor,12.0,13.379999999999999,0.42622135512084236
+Nebuchadnezzar,4,-0.2677376171352075,science powerhouse,defensive turtle,wonder competitor,6.0,7.470000000000001,0.24322320311283296
+OdaNobunaga,1,-0.4966814159292035,inconsistent warmonger,aggressive settler,unpredictable psychopath,8.0,9.040000000000001,0.30539400107460196
+Pacal,4,-0.5114942528735633,wonder hoarder,religious spammer,late game enemy,8.0,8.7,0.30022565553849867
+Pachacuti,4,-0.2332761578044597,treacherous backstabber,forward settler,tech rusher,4.0,5.83,0.17049190781954499
+Pedro,4,0.5317139001349528,loyal friend,culture focused,peaceful leader,5.0,7.41,0.2198667548162681
+Pocatello,0,-0.31170108161258603,land grabber,science threat,passive neighbor,9.0,10.17,0.3387542049023297
+Ramesses,4,-0.7384481255448998,wonder spammer,irritable leader,runaway threat,10.0,11.47,0.37248286787591317
+Ramkhamhaeng,3,-0.8575498575498576,hypocritical warmonger,city state hog,untrustworthy backstabber,12.0,14.04,0.4340801382885152
+Sejong,4,-0.358695652173913,science threat,city spammer,late game monster,11.0,13.8,0.4165367612410446
+Selassie,3,-0.2696004046535154,religious spammer,annoying turtle,hypocritical warmonger,14.0,19.77,0.520248991770032
+Shaka,2,-0.09777777777777777,extreme warmonger,loyal friend,city spammer,39.0,42.75,0.9110308053881032
+Suleiman,1,0.08297320656871217,ineffective warmonger,opportunistic backstabber,forward settler,10.0,11.57,0.373790545125848
+Theodora,4,0.493771234428086,peaceful diplomat,religious spreader,passive builder,8.0,8.83,0.30222286835350803
+Washington,0,-0.6951219512195121,hypocritical backstabber,tech leader,wonder whore,8.0,9.84,0.31689535478624353
+William,0,0.1940425531914894,peaceful diplomat,reliable friend,wonder builder,10.0,11.75,0.37611836142076666
+WuZetian,4,0.0,defensive neutral,reasonable trader,,5.0,6.470000000000001,0.20536677315094715
