@@ -1,44 +1,44 @@
-leader_name,archetype_1,archetype_2,archetype_3,n_mentions
-AhmadalMansur,peaceful merchant,wonder spammer,friendly ally,6
-Alexander,aggressive warmonger,city-state hog,diplomatic bully,44
-Ashurbanipal,aggressive warmonger,respectful warrior,,5
-Askia,backstabbing opportunist,failed warmonger,missionary spammer,7
-Attila,early game menace,relentless warmonger,late game irrelevant,17
-Augustus,opportunistic backstabber,aggressive expansionist,late game threat,12
-Bismark,reasonable warmonger,aggressive settler,chronic backstabber,12
-Boudicca,missionary spammer,backstabbing flip-flopper,early aggressor,8
-Casimir,city spammer,forgiving diplomatic,competitive threat,6
-Catherine,city spammer,strong competitor,bipolar friend,14
-Darius,scheming opportunist,production powerhouse,science threat,3
-Dido,backstabbing betrayer,aggressive warmonger,early game rusher,7
-Elizabeth,annoying backstabber,wonder hog,hostile warmonger,16
-EnricoDandolo,city state buyer,wonder spammer,annoying missionary,8
-GajahMada,deceptive warmonger,hypocritical leader,annoying personality,2
-Gandhi,nuclear warmonger,peaceful pushover,fickle backstabber,13
-GenghisKhan,aggressive warmonger,city state killer,loyal ally,15
-Gustavus,friendly ally,weak peaceful,forward settler,8
-Harald,reasonable warrior,beloved favorite,,1
-HarunAlRashid,city spammer,diplomatic manipulator,science powerhouse,7
-Hiawatha,city spammer,aggressive expansionist,annoying neighbor,19
-Isabella,religious spammer,backstabbing denouncer,annoying pest,7
-Kamehameha,annoying city spammer,weak explorer,culture builder,6
-Maria,city-state stealer,passive-aggressive backstabber,culture civ,5
-MariaI,distant isolationist,,,1
-Montezuma,aggressive warmonger,honest enemy,entertaining villain,14
-Napoleon,aggressive warmonger,opportunistic bully,culture competitor,11
-Nebuchadnezzar,science threat,defensive turtle,wonder hog,6
-OdaNobunaga,aggressive warmonger,unpredictable psychopath,persistent enemy,7
-Pacal,wonder stealer,religious builder,peaceful neighbor,7
-Pachacuti,aggressive settler,treacherous friend,tech rusher,3
-Pedro,peaceful diplomat,cultural player,,4
-Pocatello,territorial expansionist,competent AI,neutral bro,9
-Ramesses,wonder hog,irritable leader,runaway potential,9
-Ramkhamhaeng,backstabbing hypocrite,aggressive settler,city state hog,12
-Sejong,science monster,late game threat,city spammer,10
-Selassie,religious spammer,defensive turtle,hypocritical warmonger,14
-Shaka,aggressive warmonger,loyal friend,city spammer,39
-Suleiman,opportunistic backstabber,forward settler,diplomatic schemer,9
-Theodora,religious peaceful,reliable ally,wonder builder,8
-Washington,hypocritical backstabber,opportunistic aggressor,consistent winner,7
-William,friendly neighbor,city spammer,unpredictable warmonger,8
-WuZetian,backstabbing denouncer,neutral trader,,6
+leader_name,archetype_1,archetype_2,archetype_3,archetype_4,archetype_5,n_mentions
+AhmadalMansur,peaceful trader,wonder spammer,friendly ally,easy target,,6
+Alexander,aggressive warmonger,city-state hog,diplomatic bully,forward settler,backstabbing betrayer,44
+Ashurbanipal,aggressive warmonger,intimidating neighbor,respectful leader,frequent opponent,,5
+Askia,opportunistic backstabber,weak warmonger,diplomatic flip-flopper,punching bag,,7
+Attila,early game rusher,relentless warmonger,annoying neighbor,late game weakling,backstabbing betrayer,17
+Augustus,backstabbing betrayer,aggressive expansionist,late game threat,unpredictable ally,,12
+Bismark,aggressive expansionist,hypocritical warmonger,chronic backstabber,territorial bully,reasonable fighter,12
+Boudicca,missionary spammer,two-faced betrayer,aggressive expansionist,culture wonder grabber,early game victim,8
+Casimir,city spammer,forgiving diplomatic,competitive contender,warmonger,,6
+Catherine,city spammer,strong competitor,friendly then hostile,early game snowball,military powerhouse,14
+Darius,scheming warmonger,runaway threat,production powerhouse,opportunistic backstabber,,3
+Dido,backstabbing traitor,aggressive warmonger,early game bully,inconsistent diplomat,,7
+Elizabeth,annoying backstabber,wonder hog,unreasonable warmonger,untrustworthy diplomat,,16
+EnricoDandolo,city state buyer,annoying neighbor,wonder spammer,missionary spammer,,8
+GajahMada,deceptive warmonger,hypocritical leader,annoying personality,persistent mocker,,2
+Gandhi,nuclear warmonger,peaceful pushover,fickle backstabber,wonder spammer,,13
+GenghisKhan,aggressive warmonger,city state destroyer,disloyal neighbor,loyal distant ally,diplomatic pariah,15
+Gustavus,friendly ally,weak underperformer,peaceful builder,forward settler,,8
+Harald,reasonable warrior,friendly fighter,balanced leader,,,1
+HarunAlRashid,city spammer,science powerhouse,diplomatic manipulator,religious spreader,late game threat,7
+Hiawatha,city spammer,aggressive expansionist,annoying neighbor,early game threat,,19
+Isabella,religious spammer,backstabbing betrayer,annoying chatter,weak threat,,7
+Kamehameha,annoying city spammer,coastal settler,weak expandor,culture builder,diplomatic favorite,6
+Maria,city state thief,passive aggressive,expansionist threat,culture powerhouse,,5
+MariaI,distant spawn,,,,,1
+Montezuma,relentless warmonger,honest aggressor,arrogant demander,forgiving enemy,,14
+Napoleon,aggressive warmonger,opportunistic bully,culture civ,city state buyer,,11
+Nebuchadnezzar,science threat,defensive turtle,wonder competitor,difficult diplomat,,6
+OdaNobunaga,aggressive warmonger,unpredictable psychopath,forward settler,persistent enemy,,7
+Pacal,wonder spammer,religious focused,peaceful neighbor,great person trader,,7
+Pachacuti,aggressive expander,tech powerhouse,treacherous friend,forward settler,,3
+Pedro,peaceful friend,culture leader,diplomatic ally,,,4
+Pocatello,rapid expansionist,reliable ally,competent AI,territory grabber,,9
+Ramesses,wonder hog,irritable cranky,runaway potential,culture focused,tall builder,9
+Ramkhamhaeng,annoying hypocrite,aggressive settler,city state hog,religious spammer,untrustworthy backstabber,12
+Sejong,science monster,late game threat,city spammer,boom or bust,,10
+Selassie,religious spammer,passive turtle,wonder coveter,annoying hypocrite,,14
+Shaka,extreme warmonger,loyal friend,aggressive expander,honest straightforward,terrible neighbor,39
+Suleiman,backstabbing opportunist,friendly deceiver,forward settler,ineffective aggressor,,9
+Theodora,religious powerhouse,passive ally,wonder builder,consistent runaway,,8
+Washington,hypocritical warmonger,backstabbing friend,expansionist conqueror,consistent winner,,7
+William,friendly neighbor,city spammer,research partner,unpredictable warmonger,,8
+WuZetian,backstabbing antagonist,neutral trader,weak militarily,dramatic personality,,6
