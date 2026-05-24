@@ -1,6 +1,0 @@
-cluster,sentiment_score,archetype_1,archetype_2,archetype_3,n_mentions,total_weight,confidence_score,leaders
-0,-0.4281733189500179,aggressive expansionist,diplomatic backstabber,city spammer,92.0,111.24000000000001,0.7043661559913759,"Casimir, Elizabeth, Gustavus, Hiawatha, Kamehameha, Maria, MariaI, Pocatello, Washington, William"
-1,-0.4241551160255411,annoying opportunist,city state hoarder,persistent warmonger,108.0,128.42000000000002,0.8474480693786788,"Alexander, Augustus, Bismark, Catherine, Napoleon, OdaNobunaga, Suleiman"
-2,-0.2940571663582151,early aggressive warmonger,backstabbing betrayer,annoying spammer,130.0,145.89,1.0,"Ashurbanipal, Askia, Attila, Boudicca, Dido, GajahMada, GenghisKhan, Harald, Isabella, Montezuma, Shaka"
-3,-0.4894532049969281,religious spammer,hypocritical warmonger,city state hog,39.0,48.83,0.0,"Gandhi, Ramkhamhaeng, Selassie"
-4,-0.1643258426966292,science focused,peaceful builder,religious spammer,85.0,106.8,0.648933587160118,"AhmadalMansur, Darius, EnricoDandolo, HarunAlRashid, Nebuchadnezzar, Pacal, Pachacuti, Pedro, Ramesses, Sejong, Theodora, WuZetian"
