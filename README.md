@@ -6,7 +6,7 @@
 
 While multiplayer is possible, the most common experience is playing against AI-controlled civilizations. This AI is fairly competent, offering both a significant challenge and a varied game experience, since every AI-controlled leader has traits which shape their behavior — for example, Genghis Khan, leader of the Mongols, will tend to focus on military conquest, while Gandhi, leader of the Indians, will favor good diplomatic relations with neighboring civilizations and city-states.
 
-![Civilization V gameplay](figures/0_civ5_intro.jpg)
+![Civilization V gameplay](figures/0_civ5_intro.jpeg)
 *Credit: [r/civ5](https://www.reddit.com/r/civ5/comments/18l6fv9/how_do_i_win_this_first_time_playing_as_arabia/)*
 
 This project clusters the 43 AI leaders of **Civilization V** using their internal XML parameters — the hidden values that govern every diplomatic and strategic decision they make. The results are then cross-validated against qualitative community verbatims scraped from Reddit and CivFanatics, analyzed using the Anthropic Claude API (`claude-sonnet-4-20250514`).
